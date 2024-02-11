@@ -33,7 +33,7 @@ a:hover{
 }
 .banner{
     height: 91.5vh;
-    width: 100vw;
+    width: 100%;
     background-image: url(9aea97e74eb3be75769a40e86be9e4ea.png);
     background-repeat: no-repeat;
     background-size: cover;
