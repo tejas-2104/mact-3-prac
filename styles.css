@@ -22,9 +22,12 @@ header{
 a{
     text-decoration: none;
     color: white;
-    margin: 0 10px;
-    
+    margin: 0 10px; 
 }
+.svg{
+    align-items: center;
+}
+
 a:hover{
     color: orangered;
 }
