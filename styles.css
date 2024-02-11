@@ -31,13 +31,27 @@ a{
 a:hover{
     color: orangered;
 }
-main{
-    width:100%;
+.banner{
+    height: 91.5vh;
+    width: 100vw;
+    background-image: url(9aea97e74eb3be75769a40e86be9e4ea.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
-main > div{
-    width: 100%;
+ section{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
-.img{
-    width: 100%;
-    object-fit: cover;
+.box{
+    
+    margin:auto;
+    margin-top: 500px;
+    /* border: 2px solid black;  */
+    
+}
+.button{
+    height: 50px;
+    width:50px;
 }
